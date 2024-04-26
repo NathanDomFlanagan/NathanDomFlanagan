@@ -3,5 +3,6 @@
 - 👀 I’m interested in Technology, Gaming, Anime, Cybersecurity, and Art
 - 🐱‍👤 I’m currently doing an undergrad in Bachelor of Computer and Information Sciences at AUT
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDomFlanagan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDomFlanagan&layout=compact)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDomFlanagan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
