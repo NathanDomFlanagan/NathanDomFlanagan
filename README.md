@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanDomFlanagan
-- 🗿  I’m 23 years old and live in New Zealand
+- 🗿  I’m 24 years old and live in New Zealand
 - 👀 I’m interested in Technology, Gaming, Anime, Software Development, Cybersecurity, and Art
 - 🐱‍👤 I’m a graduate who has completed an undergrad in the Bachelor of Computer and Information Sciences at AUT
 - 💻 I did a double major in both Software Development, and Networking & Cybersecurity
